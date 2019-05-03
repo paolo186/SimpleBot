@@ -1,0 +1,7 @@
+Settings on Azure
+Name: SimpleBot_brsa
+Messaging Endpoint: https://simplebotbrsa.azurewebsites.net/api/messages
+Microsoft App ID: 4f4e1476-cf06-4b1f-824e-63d0298ba7b5
+Microsoft App Password: edzeDSIB88[osaGXF568#-~
+
+
